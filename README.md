@@ -45,4 +45,6 @@ Promote Learning and Collaboration:
 Encourage users to learn about API integration, data handling, and visualization by providing well-documented, open-source code.# advanceTask1.
 
 ![402230726-add1d073-991b-48f7-8eb3-9335f1ed3140](https://github.com/user-attachments/assets/67ddb037-931c-4b9c-b186-cd399febcd31)
+![image](https://github.com/user-attachments/assets/24945d22-68b2-4b16-a4ae-48845cf25288)
+
 
