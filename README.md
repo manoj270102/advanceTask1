@@ -42,4 +42,7 @@ Build a Reusable Framework:
 Create a modular and reusable codebase that can be easily adapted for other cities or data sources.
 Promote Learning and Collaboration:
 
-Encourage users to learn about API integration, data handling, and visualization by providing well-documented, open-source code.# advanceTask1
+Encourage users to learn about API integration, data handling, and visualization by providing well-documented, open-source code.# advanceTask1.
+
+![402230726-add1d073-991b-48f7-8eb3-9335f1ed3140](https://github.com/user-attachments/assets/67ddb037-931c-4b9c-b186-cd399febcd31)
+
